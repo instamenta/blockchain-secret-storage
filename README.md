@@ -21,12 +21,12 @@ to himself to share the id and password if someone wants to see the content afte
 - [Features](#features)
 - [License](#license)
 
-** Features
+## Features
 ✨ List the key features of your DApp.
 
-🛡️ Securely store secrets
-🔐 Access control with Ethereum addresses
-📜 Immutable storage on the blockchain
+* 🛡️ Securely store secrets
+* 🔐 Access control with Ethereum addresses
+* 📜 Immutable storage on the blockchain
 
 ## License
 
