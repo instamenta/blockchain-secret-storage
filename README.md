@@ -1,6 +1,6 @@
-# Blockchain Secret Storage
+# 🔒 Blockchain Secret Storage 📦
 
-🔒 Private storage units on the blockchain 📦
+Private storage units on the blockchain
 
 ## Description 🚀
 
