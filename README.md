@@ -1,6 +1,6 @@
 # Blockchain Secret Storage
 
-🚀 Super Cool Contract
+🔒 Private storage units on the blockchain 📦
 
 ## Description 🚀
 
